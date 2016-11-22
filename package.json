@@ -1,0 +1,31 @@
+{
+  "name": "taxdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lumin824/taxdb.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lumin824/taxdb/issues"
+  },
+  "homepage": "https://github.com/lumin824/taxdb#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "gm": "^1.23.0",
+    "lodash": "^4.17.2",
+    "moment": "^2.16.0",
+    "node-uuid": "^1.4.7",
+    "request": "^2.79.0"
+  }
+}
